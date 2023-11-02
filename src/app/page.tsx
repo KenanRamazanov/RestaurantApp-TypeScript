@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-   <main>
+   <main className='mt-0'>
  <Slider/>
  <Featured/>
  <Offer/>
