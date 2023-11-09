@@ -1,9 +1,9 @@
 import React from 'react'
 
-const BurgerPage = () => {
+const CategoryPage = () => {
   return (
-    <div>BurgerPage</div>
+    <div>CategoryPage</div>
   )
 }
 
-export default BurgerPage
+export default CategoryPage
