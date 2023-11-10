@@ -1,8 +1,19 @@
 import React from 'react'
 
-const Price = () => {
+type Props ={
+    price:number;
+    id:number;
+    options?: { title: string; additionalPrice: number }[];
+}
+
+const Price = ({price,id,options}:Props) => {
+
+    
   return (
-    <div>Price</div>
+    <div>
+<h2></h2>
+
+    </div>
   )
 }
 
