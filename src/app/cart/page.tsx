@@ -2,7 +2,13 @@ import React from 'react'
 
 const CartPage = () => {
   return (
-    <div>CartPage</div>
+    <div className=''>
+    {/* Products CONTAINER */}
+    
+    {/* Payment CONTAINER */}
+        
+
+    </div>
   )
 }
 
