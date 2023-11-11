@@ -2,7 +2,14 @@ import React from 'react'
 
 const LoginPage = () => {
   return (
-    <div>LoginPage</div>
+    <div>
+      {/* BOX */}
+      <div className=''>
+     {/* Image Container */}
+     {/* Form Container */}
+
+      </div>
+    </div>
   )
 }
 
